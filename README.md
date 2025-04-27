@@ -1,1 +1,1 @@
-# study-log
+# Study Log
